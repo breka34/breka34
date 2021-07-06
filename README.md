@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaBrekalo
 - 👀 I’m interested in fronted
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS / Vue
 - 💞️ Igit push -u origin main...
 - 📫 How to reach me brekaa123@gmail.com
 <!---
